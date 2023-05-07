@@ -1,7 +1,7 @@
 # EE597 Lab 1
 NS-3 Simulation\
 Wireless Network Topology(Multiple Transmission devices and one Base station)\
-Evaluation on how Number of nodes and Data Rate affect the Wifi Backoff Window size and Total Throughput of network\
+Evaluation on how Number of nodes and Data Rate affect the Wifi Backoff Window size and Total Throughput of network
 
 accomplished by Qiushi Xu and Yiyi Li
 
