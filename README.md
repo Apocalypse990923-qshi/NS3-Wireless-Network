@@ -1,5 +1,5 @@
 # EE597 Lab 1
-NS-3 Simulation\
+NS-3 Simulation of 802.11 CSMA/CA MAC\
 Wireless Network Topology(Multiple Transmission devices and one Base station)\
 Evaluation on how Number of nodes and Data Rate affect the Wifi Backoff Window size and Total Throughput of network
 
